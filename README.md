@@ -1,6 +1,6 @@
 # OSCP-Guide
 
-So yea I didn't pass it... I would definitely recommend 3 months subscription, I got 2 and solved 49 boxes, and did not manage to touch Buffer Overflow. I knew that I could attempt the Buffer Overflow exercises as long as I tranferred the necessary files over from the Offsec provided Windows VM to my own. However, I miscalculated the amount of time I had left due to timezone differences, and thought I had an additional day to make the transfer, I really should not have procrastinated... 
+So yea I didn't pass it... I would definitely recommend 3 months subscription, I got 2 months subscription and solved 49 boxes, and did not manage to touch Buffer Overflow. I knew that I could attempt the Buffer Overflow exercises as long as I tranferred the necessary files over from the Offsec provided Windows VM to my own. However, I miscalculated the amount of time I had left due to timezone differences, and thought I had an additional day to make the transfer, I really should not have procrastinated... 
 
 So yea my number 1 tip, is that you transfer the Buffer Overflow materials before your subscription expires. You can always analyze the .exe files with Immunity Debugger after the timer expires, so long as you have access to those files.
 
