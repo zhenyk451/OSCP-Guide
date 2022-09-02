@@ -1,5 +1,13 @@
 # OSCP-Guide
 
+So yea I didn't pass it... I would definitely recommend 3 months subscription, I got 2 and solved 49 boxes, and did not manage to touch Buffer Overflow. I knew that I could attempt the Buffer Overflow exercises as long as I tranferred the necessary files over from the Offsec provided Windows VM to my own. However, I miscalculated the amount of time I had left due to timezone differences, and thought I had an additional day to make the transfer, I really should not have procrastinated... 
+
+So yea my number 1 tip, is that you transfer the Buffer Overflow materials before your subscription expires. You can always analyze the .exe files with Immunity Debugger after the timer expires, so long as you have access to those files.
+
+My prior knowledge of ethical hacking was just port enumeration and metasploit. I would suggest you try out vulnhub VM's like Kioptrix and attempt to solve them with manual exploits, by that I meant not use automated tools, i.e. Nessus for Port Enumeration or Metasploit for all the things Metasploit does.
+
+With that being said, know the basics of metasploit as you are allowed to use it for one out of the five boxes in your exam. Incorporate it when you are practicing, but do not rely on it for all your boxes.
+
 NMAP
 
 	sudo nmap -sT -sC -sV -Pn -o 120 10.11.1.120
